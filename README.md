@@ -1,4 +1,4 @@
-# Hi there, I'm [Idhant](https://www.github.com/Idhant-6)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm [Idhant](https://www.github.com/Idhant-6c)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## I'm Glad You're Here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=Idhant-6)
 
 - 👨‍🎓 A Student Of Class-VIII,
@@ -25,7 +25,7 @@
 <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Idhant-6&theme=black-ice&stroke=f00&theme=jolly"/>
 
 
-## My Repositories
+## 📊My Repositories📊
 
 <a href="https://github.com/Idhant-6/Idhant-6">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idhant-6&repo=Idhant-6&theme=jolly" />
@@ -45,3 +45,8 @@
 <a href="https://github.com/Idhant-6/Guess-The-Number">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idhant-6&repo=Guess-The-Number&theme=jolly" />
 </a> 
+<br></br>
+
+## My Contributions Graph 👋🏻
+
+[<img src="https://activity-graph.herokuapp.com/graph?username=Idhant-6&theme=jolly&hide_borders=true"/>](https://ww.github.com)

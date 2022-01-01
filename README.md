@@ -1,4 +1,4 @@
-# Hi there, I'm [Idhant](https://www.github.com/Idhant-6c)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm [Idhant](https://www.github.com/Idhant-6)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## I'm Glad You're Here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=Idhant-6)
 
 - 👨‍🎓 A Student Of Class-VIII,

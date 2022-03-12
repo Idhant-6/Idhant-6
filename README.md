@@ -36,8 +36,8 @@
 <a href="https://github.com/Idhant-6/Machine-Learning-Hand-Detector">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idhant-6&repo=Machine-Learning-Hand-Detector&theme=jolly" />
 </a>
-<a href="https://github.com/Idhant-6/Idhant-6.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idhant-6&repo=Idhant-6.github.io&theme=jolly" />
+<a href="https://github.com/Idhant-6/Hacktoberfest-2021">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idhant-6&repo=Hacktoberfest-2021&github.io&theme=jolly" />
 </a>
 <a href="https://github.com/Idhant-6/Foods-Got-Talent">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idhant-6&repo=Foods-Got-Talent&theme=jolly" />

@@ -28,7 +28,7 @@
 ## 📊My Repositories📊
 
 <a href="https://github.com/Idhant-6/Fantastic-Face-Detector">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idhant-6&repo=Fantastic-Face-Detector! -6&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idhant-6&repo=Fantastic-Face-Detectortheme=jolly" />
 </a>
 <a href="https://github.com/Idhant-6/Modern_Jarvis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idhant-6&repo=Modern_Jarvis&theme=jolly" />

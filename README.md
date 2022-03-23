@@ -18,9 +18,9 @@
 
 ## 📈 My GitHub Stats 
 
-<img alt="Idhant-6's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Idhant-6&show_icons=true&theme=jolly"/>
-
 <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idhant-6&langs_count=8&theme=jolly" width="310px" align="right"/> 
+
+<img alt="Idhant-6's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Idhant-6&show_icons=true&theme=jolly"/>
 
 <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Idhant-6&theme=black-ice&stroke=f00&theme=jolly"/>
 

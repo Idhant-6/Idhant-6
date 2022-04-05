@@ -1,12 +1,13 @@
 # Hi there, I'm [Idhant](https://www.github.com/Idhant-6)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## I'm Glad You're Here! 
 
-- 👨‍🎓 A Student Of Class-VIII,
+- 👨‍🎓 A Student Of Class-IX
+- 👀I'm Currently 14 Years Old
 - 🔭 I’m currently working on Improving My English Singing Skills
 - 🌱 I’m currently learning Python And Ethical Hacking
-- 👯 I’m looking to collaborate on Any Type Of Project
-- 💬 Ask me about Python And Web Developement
-- 📫 You Can Reach Me Anytime Using My Email:- popstar.idhant@outlook.com or programmer.idhant@gmail.com
+- 👯 I’m looking to collaborate on Any Type Of Project Except Nuclear 😛
+- 💬 Ask me about Python And Web Developemen, Also Ethical Hacking! 🤖
+- 📫 You Can Reach Me Anytime Using My Email:- popstar.idhant@outlook.com or programmer.idhant@gmail.com (If I don't reply within 1-2 days)
 
 ## 🔧 My Tools
 ![](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)

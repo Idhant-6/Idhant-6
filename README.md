@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Improving My English Singing Skills
 - 🌱 I’m currently learning Python And Ethical Hacking
 - 👯 I’m looking to collaborate on Any Type Of Project Except Nuclear 😛
-- 💬 Ask me about Python And Web Developemen, Also Ethical Hacking! 🤖
+- 💬 Ask me about Python And Web Developement, Also Ethical Hacking! 🤖
 - 📫 You Can Reach Me Anytime Using My Email:- popstar.idhant@outlook.com or My Discord:- <b>*Newt Scamander#2068*</b>
 ## 🔧My Tools🔧 
 ![](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)

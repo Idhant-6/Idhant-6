@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on Any Type Of Project Except Nuclear 😛
 - 💬 Ask me about Python And Web Developemen, Also Ethical Hacking! 🤖
 - 📫 You Can Reach Me Anytime Using My Email:- popstar.idhant@outlook.com or My Discord:- <b>*Newt Scamander#2068*</b>
-## 🔧 My Tools
+## 🔧My Tools🔧 
 ![](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 <hr>
 
-## 📈 My GitHub Stats 
+## 📈My GitHub Stats📈 
 
 <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idhant-6&langs_count=8&theme=jolly" width="310px" align="right"/> 
 
@@ -47,6 +47,6 @@
 </a> 
 <br></br>
 
-## My Contributions Graph 👋🏻
+## 🤝🏻My Contributions Graph🤝🏻
 
 [<img src="https://activity-graph.herokuapp.com/graph?username=Idhant-6&theme=jolly&hide_borders=true"/>](https://ww.github.com)

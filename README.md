@@ -1,11 +1,11 @@
 # Hi there, I'm [Idhant](https://www.github.com/Idhant-6) <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="30px">
 
-## I'm Glad You're Here!
+## I'm Glad You're Here! <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30px">
 - 👨‍🎓 A Student Of Class-IX
 - 👀 I'm Currently 14 Years Old
 - 🔭 I’m currently working on Improving My English Singing Skills
 - 🌱 I’m currently learning Python And Ethical Hacking
-- 👯 I’m looking to collaborate on Any Type Of Project Except Nuclear 😛
+- 👯 I’m looking to collaborate on Any Type Of Project Except Nuclear 😜
 - 💬 Ask me about Python And Web Developement, Also Ethical Hacking! 🤖
 - 📫 You Can Reach Me Anytime Using My Email:- popstar.idhant@outlook.com or My Discord:- <b>*Newt Scamander#2068*</b>
 ## 🔧My Tools🔧 

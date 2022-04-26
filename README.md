@@ -10,7 +10,6 @@
 - 📫 You Can Reach Me Anytime Using My Email:- popstar.idhant@outlook.com or My Discord:- <b>*Newt Scamander#2068*</b>
 ## 🔧My Tools🔧 
 ![](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual%20studio%20code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)

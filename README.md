@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 <hr>
 
-## <img src="https://media4.giphy.com/media/CtYFOdVbvTfgZunPEA/giphy.gif?cid=ecf05e47xwvibwod5xp32sh1cwdm0h2sry7rycpno4pevke3&rid=giphy.gif&ct=g" width="25px"> My GitHub Stats <img src="https://media4.giphy.com/media/CtYFOdVbvTfgZunPEA/giphy.gif?cid=ecf05e47xwvibwod5xp32sh1cwdm0h2sry7rycpno4pevke3&rid=giphy.gif&ct=g" width="25px">
+## 📈GitHub Stats📈
 
 <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idhant-6&langs_count=8&theme=jolly" width="310px" align="right"/> 
 

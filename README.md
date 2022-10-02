@@ -3,13 +3,13 @@
 ## I'm Glad You're Here! <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30px">
 
 
-- 👨‍🎓 A Student Of Class-IX
-- 👀 I'm Currently 14 Years Old
-- 🔭 I’m currently working on Improving My English Singing Skills
-- 🌱 I’m currently learning Python And Ethical Hacking
+- 🧑🏻‍🎓 A Student Of Class-IX
+- 👀 I'm Currently 14 Years Old 
+- 🔭 I’m currently working on Improving My English Singing Skills 🎤
+- 🌱 I’m currently learning Ethical Hacking 🧑🏻‍💻
 - 👯 I’m looking to collaborate on Any Type Of Project Except Nuclear 😜
 - 💬 Ask me about Python And Web Developement, Also Ethical Hacking! 🤖
-- 📫 You Can Reach Me Anytime Using My Email:- popstar.idhant@outlook.com or My Discord:- <b>*Newt Scamander#2068*</b>
+- 📫 You Can Reach Me Anytime Using My Email:- popstar.idhant@outlook.com</b>
 ## 🔧My Tools🔧 
 ![](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual%20studio%20code&logoColor=white&color=2bbc8a)

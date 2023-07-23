@@ -51,6 +51,7 @@
 </a> 
 <br></br>
 
-## 🤝🏻My Contributions Graph🤝🏻
+<!-- ## 🤝🏻My Contributions Graph🤝🏻
 
-[<img src="https://activity-graph.herokuapp.com/graph?username=Idhant-6&theme=jolly&hide_borders=true"/>](https://ww.github.com)
+[<img src="https://activity-graph.herokuapp.com/graph?username=Idhant-6&theme=jolly&hide_borders=true"/>](https://ww.github.com) --> 
+

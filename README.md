@@ -7,11 +7,11 @@
 
 - 🧑🏻‍🎓 A Student Of Class-X
 - 👀 I'm Currently 15 Years Old 
-- 🔭 I’m currently working on Improving My English Singing Skills 🎤
+- 🔭 I’m currently working on a Substitute Project.
 - 🌱 I’m currently learning Ethical Hacking 🧑🏻‍💻
-- 👯 I’m looking to collaborate on Any Type Of Project Except Nuclear 😜
-- 💬 Ask me about Python And Web Developement, Also Ethical Hacking! 🤖
-- 📫 You Can Reach Me Anytime Using My Email:- popstar.idhant@outlook.com</b>
+- 👯 I’m looking to collaborate with any one anyone who needs my help..!
+- 💬 Ask me about Python And Web development, as well as Ethical Hacking! 🤖
+- 📫 You can reach me anytime usin' my Email:- programmer.idhant@gmail.com</b>
 ## 🔧My Tools🔧 
 ![](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual%20studio%20code&logoColor=white&color=2bbc8a)

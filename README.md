@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on a Substitute Project.
 - 🌱 I’m currently learning Ethical Hacking 🧑🏻‍💻
 - 👯 I’m looking to collaborate with any one anyone who needs my help..!
-- 💬 Ask me about Python And Web development, as well as Ethical Hacking! 🤖
+- 💬 Ask me about Python, Web development, as well as Ethical Hacking! 🤖
 - 📫 You can reach me anytime usin' my Email:- programmer.idhant@gmail.com</b>
 ## 🔧My Tools🔧 
 ![](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)

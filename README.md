@@ -31,6 +31,10 @@
 
 ## 📊My Repositories📊
 
+
+<a href="https://github.com/Idhant-6/Schedule-Savior">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idhant-6&repo=Schedule-Savior&theme=jolly" />
+</a>
 <a href="https://github.com/Idhant-6/Fantastic-Face-Detector">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idhant-6&repo=Fantastic-Face-Detector&theme=jolly" />
 </a>

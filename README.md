@@ -2,25 +2,30 @@
 
 [![@popstar_idhant's Holopin board](https://holopin.io/api/user/board?user=popstar_idhant)](https://holopin.io/@popstar_idhant)
 
-## I'm Happy You're Here! <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30px">
+## I'm happy you're here! <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30px">
 
+<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif" height="200px" align="right">
 
 - 🧑🏻‍🎓 A Student Of Class-X
 - 👀 I'm Currently 15 Years Old 
 - 🔭 I’m currently working on a Substitute Project.
 - 🌱 I’m currently learning Ethical Hacking 🧑🏻‍💻
-- 👯 I’m looking to collaborate with any one anyone who needs my help..!
+- 👯 I’m looking to collaborate with anyone anyone who needs my help..!
 - 💬 Ask me about Python, Web development, as well as Ethical Hacking! 🤖
 - 📫 You can reach me anytime usin' my Email:- programmer.idhant@gmail.com</b>
 ## 🔧My Tools🔧 
-![](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual%20studio%20code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows_11-informational?style=for-the-badge&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=for-the-badge&logo=digitalocean&logoColor=white&color=2bbc8a)
 <hr>
 
 ## 📈GitHub Stats📈
+
+[<img src="https://github-readme-activity-graph.vercel.app/graph?username=Idhant-6&theme=jolly" width="100%" border="none"/>](https://www.github.com/Idhant-6)
+[<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Idhant-6&theme=jolly" width="100%"/>](https://github.com/Idhant-6)
+
 
 <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Idhant-6&langs_count=8&theme=jolly" width="310px" align="right"/> 
 
@@ -30,6 +35,7 @@
 
 
 ## 📊My Repositories📊
+
 
 <a href="https://github.com/Idhant-6/Fantastic-Face-Detector">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idhant-6&repo=Fantastic-Face-Detector&theme=jolly" />

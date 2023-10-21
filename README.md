@@ -1,6 +1,6 @@
 # Now that you've come here, I'm [Idhant](https://www.github.com/Idhant-6). <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="30px">
 
-[![@popstar_idhant's Holopin board](https://holopin.io/api/user/board?user=popstar_idhant)](https://holopin.io/@popstar_idhant)
+[![An image of @popstar_idhant's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/popstar_idhant)](https://holopin.io/@popstar_idhant)
 
 ## I'm happy you're here! <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30px">
 
@@ -10,9 +10,9 @@
 - 👀 I'm Currently 15 Years Old 
 - 🔭 I’m currently working on a Substitute Project.
 - 🌱 I’m currently learning Ethical Hacking 🧑🏻‍💻
-- 👯 I’m looking to collaborate with anyone anyone who needs my help..!
+- 👯 I’m looking to collaborate with anyone who needs my help..!
 - 💬 Ask me about Python, Web development, as well as Ethical Hacking! 🤖
-- 📫 You can reach me anytime usin' my Email:- programmer.idhant@gmail.com</b>
+- 📫 Feel free to reach out to me by my Email:- programmer.idhant@gmail.com</b>
 ## 🔧My Tools🔧 
 ![](https://img.shields.io/badge/OS-Windows_11-informational?style=for-the-badge&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=2bbc8a)

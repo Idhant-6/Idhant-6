@@ -17,7 +17,6 @@
 ![](https://img.shields.io/badge/OS-Windows_11-informational?style=for-the-badge&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=for-the-badge&logo=digitalocean&logoColor=white&color=2bbc8a)
 <hr>
 

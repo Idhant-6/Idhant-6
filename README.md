@@ -45,8 +45,8 @@
 <a href="https://github.com/Idhant-6/Machine-Learning-Hand-Detector">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idhant-6&repo=Machine-Learning-Hand-Detector&theme=jolly" />
 </a>
-<a href="https://github.com/Idhant-6/Table-Calculator-in-JS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idhant-6&repo=Table-Calculator-in-JS&github.io&theme=jolly" />
+<a href="https://github.com/Idhant-6/Project-Password-Protector">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idhant-6&repo=Project-Password-Protector&github.io&theme=jolly" />
 </a>
 <a href="https://github.com/Idhant-6/Foods-Got-Talent">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Idhant-6&repo=Foods-Got-Talent&theme=jolly" />

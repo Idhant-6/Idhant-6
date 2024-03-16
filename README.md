@@ -6,9 +6,8 @@
 
 <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif" height="200px" align="right">
 
-- 🧑🏻‍🎓 A Student Of Class-X
-- 👀 I'm Currently 15 Years Old 
-- 🔭 I’m currently working on a Substitute Project.
+- 🧑🏻‍🎓 A Student Of Class-XI
+- 👀 I'm Currently 16 Years Old 
 - 🌱 I’m currently learning Ethical Hacking 🧑🏻‍💻
 - 👯 I’m looking to collaborate with anyone who needs my help..!
 - 💬 Ask me about Python, as well as Ethical Hacking! 🤖

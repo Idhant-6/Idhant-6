@@ -1,4 +1,4 @@
-# Now that you've arrived here, I'm [Idhant](https://www.github.com/Idhant-6)...!
+# Now that you've arrived here, I'm [Idhant](https://idhant-6.github.io/)...!
 
 [![An image of @popstar_idhant's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/popstar_idhant)](https://holopin.io/@popstar_idhant)
 

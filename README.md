@@ -1,4 +1,4 @@
-# Now that you've arrived here, I'm [Idhant](https://idhant-6.github.io/)...!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=5500&pause=5000&color=F7F7F7&width=800&lines=Now+that+you've+arrived+here%2C+I'm+Idhant...!)](https://git.io/typing-svg)
 
 [![An image of @popstar_idhant's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/popstar_idhant)](https://holopin.io/@popstar_idhant)
 

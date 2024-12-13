@@ -12,6 +12,9 @@
 - 👯 I’m looking to collaborate with anyone who needs my help..!
 - 💬 Ask me about Python, as well as Ethical Hacking! 🤖
 - 📫 Reach out to me by Email:- programmer.idhant@gmail.com</b>
+
+- 🌟🔴 Learn more about me and my skills/achievements: https://idhant-6.github.io/  
+
 ## 🔧My Tools🔧 
 ![](https://img.shields.io/badge/OS-Windows_11-informational?style=for-the-badge&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=2bbc8a)

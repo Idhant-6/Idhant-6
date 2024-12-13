@@ -2,7 +2,7 @@
 
 [![An image of @popstar_idhant's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/popstar_idhant)](https://holopin.io/@popstar_idhant)
 
-## I'm ecstatic you're here..!
+## I'm ecstatic you're here..! (Now watch this guy yap 🗿)
 
 <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif" height="200px" align="right">
 
